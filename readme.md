@@ -52,7 +52,7 @@ apt-get install libreoffice
 Run this command within your project directory
 
 ```shell
-composer require hum/document-converter
+composer require midi/document-converter
 ```
 
 ### Usage

@@ -1,5 +1,5 @@
 {
-    "name": "hum/document-converter",
+    "name": "midi/document-converter",
     "description": "office documents to pictures / pdf",
     "type": "library",
     "keywords": [
