@@ -1,0 +1,33 @@
+{
+    "name": "hum/document-converter",
+    "description": "office documents to pictures / pdf",
+    "type": "library",
+    "keywords": [
+        "document", "image", "converter", "LibreOffice", "soffice"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hum",
+            "email": "madril1130@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "ext-imagick": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DocumentConverter\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "DocumentConverter\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev"
+}
