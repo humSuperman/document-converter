@@ -115,3 +115,9 @@ $pdfPath = $service->fileToPdf()
 ```php
 DocumentConverterException
 ```
+### License
+The OfficeConverter package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+### Feedback & Contribute
+
+Notify me of any issues, bugs, or improvements. Thanks.
