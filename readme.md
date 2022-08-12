@@ -23,6 +23,9 @@ txt
 ```
 
 ### System Library Installation
+
+- [中日韩字体下载（CJK Fonts）](https://zh-cn.libreoffice.org/download/fonts/)
+
 - mac
 ```
 brew install ghostscript
